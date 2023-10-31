@@ -1,38 +1,39 @@
-{ "coffees":[
-  {
-    "id": 1,
-    "name": "CAPPUCCINO",
-    "image": "https://images.absolutdrinks.com/drink-images/Raw/Kahlua/8317f0a2-a13e-4eeb-954a-ae1d603537a6.jpg",
-    "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
-    "status": false
-  },
-  {
-    "id": 2,
-    "name": "COFFEE LATTE",
-    "image": "https://ideas.ted.com/wp-content/uploads/sites/3/2022/07/FINAL_Coffee.jpg",
-    "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
-    "status": false
-  },
-  {
-    "id": 3,
-    "name": "CAFFE MOCHA",
-    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/03/30/ovehead-cup-of-coffee-with-milk.jpg.rend.hgtvcom.1280.960.suffix/1648675206726.jpeg",
-    "description": "Espresso, hot milk, and steamed milk foam. Cold brew or cold-press - steeped coffee in room temperature or cold water for a longer period",
-    "status": false
-  },
-  {
-    "id": 4,
-    "name": "ESPRESSO",
-    "image": "https://www.foodandwine.com/thmb/csKKHXC0nhnC_GJCFEwi5S9-UZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Coffee-FT-BLOG0523-7aca9e770bc84d3faa004c2bb6099749.jpg",
-    "description": "Concentrated form of coffee brewed with high pressure, hot water and finely ground coffee beans. Espresso is thicker than regular coffee and has a layer of “crema” on top, which results from air bubbles mixing with the coffee's oils.",
-    "status": false
-  },
-  {
-    "id": 5,
-    "name": "FLAT WHITE",
-    "image": "https://etimg.etb2bimg.com/thumb/msid-94574753,width-1200,height-900,resizemode-4/.jpg",
-    "description": "A blend of micro-foamed milk poured over a single or double shot of espresso. This microfoam is steamed milk infused with air, to create a smooth and velvety texture and creamy taste.",
-    "status": false
-  }
-]
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "CAPPUCCINO",
+      "image": "https://images.absolutdrinks.com/drink-images/Raw/Kahlua/8317f0a2-a13e-4eeb-954a-ae1d603537a6.jpg",
+      "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "COFFEE LATTE",
+      "image": "https://ideas.ted.com/wp-content/uploads/sites/3/2022/07/FINAL_Coffee.jpg",
+      "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "CAFFE MOCHA",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/03/30/ovehead-cup-of-coffee-with-milk.jpg.rend.hgtvcom.1280.960.suffix/1648675206726.jpeg",
+      "description": "Espresso, hot milk, and steamed milk foam. Cold brew or cold-press - steeped coffee in room temperature or cold water for a longer period",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "ESPRESSO",
+      "image": "https://www.foodandwine.com/thmb/csKKHXC0nhnC_GJCFEwi5S9-UZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Coffee-FT-BLOG0523-7aca9e770bc84d3faa004c2bb6099749.jpg",
+      "description": "Concentrated form of coffee brewed with high pressure, hot water and finely ground coffee beans. Espresso is thicker than regular coffee and has a layer of “crema” on top, which results from air bubbles mixing with the coffee's oils.",
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "FLAT WHITE",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-94574753,width-1200,height-900,resizemode-4/.jpg",
+      "description": "A blend of micro-foamed milk poured over a single or double shot of espresso. This microfoam is steamed milk infused with air, to create a smooth and velvety texture and creamy taste.",
+      "status": false
+    }
+  ]
 }
