@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "High-Intensity Interval Training (HIIT)",
-    "image": "https://media.istockphoto.com/id/1305549557/photo/fit-hispanic-woman-in-activewear-exercising-at-the-gym.jpg?s=612x612&w=0&k=20&c=ucd0sF0rK5HboyBPh045-eDRPOerGaV25blPvJ5CP_4=",
-    "description": "HIIT workouts involve short bursts of intense exercises followed by brief rest or low-intensity recovery periods. For example, you could do 30 seconds of jumping jacks, followed by 30 seconds of rest, and then repeat the cycle for 15-20 minutes. HIIT is excellent for burning calories, improving cardiovascular health, and increasing endurance.",
+    "name": "CAPPUCCINO",
+    "image": "https://images.absolutdrinks.com/drink-images/Raw/Kahlua/8317f0a2-a13e-4eeb-954a-ae1d603537a6.jpg",
+    "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
     "status": false
   },
   {
     "id": 2,
-    "name": "Bodyweight Circuit Workout",
-    "image": "https://prod-ne-cdn-media.puregym.com/media/810213/bodyweight.jpg?quality=80",
-    "description": "This workout utilizes your body weight for resistance. A circuit typically includes exercises like push-ups, squats, lunges, planks, and burpees. Perform each exercise for 45 seconds, followed by 15 seconds of rest. Complete the entire circuit, rest for 1-2 minutes, and then repeat for 3-4 rounds. Bodyweight circuits improve overall strength, endurance, and flexibility.",
+    "name": "COFFEE LATTE",
+    "image": "https://ideas.ted.com/wp-content/uploads/sites/3/2022/07/FINAL_Coffee.jpg",
+    "description": "Brewing the perfect cup of coffee is not that hard as long as you know a few easy steps to follow. Knowing how to brew coffee properly will allow you to enjoy your cup and give you the best result that a good brew can give you.",
     "status": false
   },
   {
     "id": 3,
-    "name": "Yoga and Stretching Routine",
-    "image": "https://media.post.rvohealth.io/wp-content/uploads/2019/10/cobra-pose-yoga-back-bend-1200x628-facebook-1200x628.jpg",
-    "description": "Yoga combines physical postures, breathing exercises, and meditation. A typical yoga routine includes poses like downward dog, warrior poses, and child's pose. Incorporate stretching exercises to improve flexibility and balance. Yoga enhances flexibility, balance, and mental relaxation.",
+    "name": "CAFFE MOCHA",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/03/30/ovehead-cup-of-coffee-with-milk.jpg.rend.hgtvcom.1280.960.suffix/1648675206726.jpeg",
+    "description": "Espresso, hot milk, and steamed milk foam. Cold brew or cold-press - steeped coffee in room temperature or cold water for a longer period",
     "status": false
   },
   {
     "id": 4,
-    "name": "Circuit Training with Weights",
-    "image": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/05/shutterstock_413984332.jpg?fit=1000%2C618&ssl=1",
-    "description": "Use dumbbells or kettlebells for this workout. Create a circuit with exercises like bicep curls, shoulder presses, squats with weights, and bent-over rows. Perform 3 sets of 12-15 repetitions for each exercise with minimal rest between sets. Circuit training with weights builds muscle strength and endurance.",
+    "name": "ESPRESSO",
+    "image": "https://www.foodandwine.com/thmb/csKKHXC0nhnC_GJCFEwi5S9-UZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Coffee-FT-BLOG0523-7aca9e770bc84d3faa004c2bb6099749.jpg",
+    "description": "Concentrated form of coffee brewed with high pressure, hot water and finely ground coffee beans. Espresso is thicker than regular coffee and has a layer of “crema” on top, which results from air bubbles mixing with the coffee's oils.",
     "status": false
   },
   {
     "id": 5,
-    "name": "Outdoor Cardio Workout",
-    "image": "https://assets.speakcdn.com/assets/2400/outdoor-cardio-v2-640-290-blog-hero-image-01-min.png",
-    "description": "Take your workout outdoors for a refreshing experience. Jog or briskly walk in the park, interspersed with bodyweight exercises like push-ups, lunges, and jumping jacks. Use a park bench for step-ups and tricep dips. Aim for 30 minutes of continuous activity. Outdoor workouts provide fresh air, boost mood, and enhance cardiovascular health.",
+    "name": "FLAT WHITE",
+    "image": "https://etimg.etb2bimg.com/thumb/msid-94574753,width-1200,height-900,resizemode-4/.jpg",
+    "description": "A blend of micro-foamed milk poured over a single or double shot of espresso. This microfoam is steamed milk infused with air, to create a smooth and velvety texture and creamy taste.",
     "status": false
   }
 ]
